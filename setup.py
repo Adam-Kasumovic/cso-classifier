@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 requirements_to_install = [
     'igraph==0.10.4;python_version>="3.7"',
     'python-igraph==0.9.1;python_version<"3.7"',
-    'gensim==3.8.3',
+    'gensim==3.8.2',
     'click==8.1.8',
     'hurry.filesize==0.9',
     'kneed==0.3.1',
