@@ -9,14 +9,14 @@ requirements_to_install = [
     'igraph==0.10.4;python_version>="3.7"',
     'python-igraph==0.9.1;python_version<"3.7"',
     'gensim==3.8.3',
-    'click==7.1.2',
+    'click==8.1.8',
     'hurry.filesize==0.9',
     'kneed==0.3.1',
-    'nltk==3.6.2',
+    'nltk==3.9.1',
     'rapidfuzz==2.11.1',
     'numpy>=1.19.5',
     'requests==2.25.1',
-    'spacy==3.0.5',
+    'spacy==3.7.5',
     'strsimpy==0.2.0',
     'update-checker==0.18.0'
 ]
