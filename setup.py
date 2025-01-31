@@ -15,7 +15,7 @@ requirements_to_install = [
     'nltk==3.9.1',
     'rapidfuzz==2.11.1',
     'numpy>=1.19.5',
-    'requests==2.25.1',
+    'requests==2.32.3',
     'spacy==3.7.5',
     'strsimpy==0.2.0',
     'update-checker==0.18.0'
